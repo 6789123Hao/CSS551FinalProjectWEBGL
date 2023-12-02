@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-CSS551_FinalProject-0.1";
 const contentToCache = [
     "Build/CSS551FinalProjectWEBGL.loader.js",
-    "Build/CSS551FinalProjectWEBGL.framework.js",
-    "Build/CSS551FinalProjectWEBGL.data",
-    "Build/CSS551FinalProjectWEBGL.wasm",
+    "Build/CSS551FinalProjectWEBGL.framework.js.unityweb",
+    "Build/CSS551FinalProjectWEBGL.data.unityweb",
+    "Build/CSS551FinalProjectWEBGL.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
