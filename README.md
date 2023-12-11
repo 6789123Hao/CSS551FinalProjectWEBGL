@@ -11,4 +11,6 @@ This application allows the user to play a game that models a soccer penalty kic
 
 <img src = "https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShots/ExplosionCurve.jpg">
 
-<video src = "https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShots/MiniPlayThrough.mkv">
+Mini Demo:
+
+https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShots/MiniPlayThrough.mkv
