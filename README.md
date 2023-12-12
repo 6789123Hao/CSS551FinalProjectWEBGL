@@ -8,11 +8,17 @@ Mini Demo:
 
 [![Watch the video](https://img.youtube.com/vi/of7F7JmPANM/maxresdefault.jpg)](https://github.com/6789123Hao/CSS551FinalProjectWEBGL/assets/58276668/9bf5f0ee-11e1-4ce5-b517-438c81194d6c)
 
+Play KiiickingKans Here:
+
 <a href="https://6789123hao.github.io/CSS551FinalProjectWEBGL/"><img src="https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShot1.jpg" /></a>
+
+Youtube Link:
+
+[![Watch the video](https://img.youtube.com/vi/of7F7JmPANM/maxresdefault.jpg)](https://youtu.be/of7F7JmPANM)
+
+ScreenShots:
 
 <img src = "https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShots/ExplosionCurve.jpg">
 
-Youtube:
-
-[![Watch the video](https://img.youtube.com/vi/of7F7JmPANM/maxresdefault.jpg)](https://youtu.be/of7F7JmPANM)
+<img src = "https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShots/MaxIntOverFlow.jpg">
 
