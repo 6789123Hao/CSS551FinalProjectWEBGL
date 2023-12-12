@@ -13,7 +13,7 @@ This application allows the user to play a game that models a soccer penalty kic
 
 Mini Demo:
 
-https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShots/MiniPlayThrough.mkv
+https://github.com/6789123Hao/CSS551FinalProjectWEBGL/blob/main/ScreenShots/MiniPlayThrough.mp4
 
 Youtube:
 
